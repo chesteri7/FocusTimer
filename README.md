@@ -1,0 +1,1 @@
+Focus Timer é um despertador simples e eficaz que ajuda você a gerenciar seu tempo de forma produtiva usando a técnica Pomodoro. Ideal para quem busca foco em tarefas e deseja equilibrar momentos de trabalho e descanso.
